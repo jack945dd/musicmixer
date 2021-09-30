@@ -1,0 +1,17 @@
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\finalproject.exe.config
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\finalproject.exe
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\finalproject.pdb
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.exe
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.pdb
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\Interop.WMPLib.dll
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\AxInterop.WMPLib.dll
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\Interop.WMPLib.dll
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\AxInterop.WMPLib.dll
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.csproj.ResolveComReference.cache
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\bin\Debug\db.mdb
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+D:\Jack的資料\二下\視覺化程式設計\期末\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
